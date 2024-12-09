@@ -55,7 +55,7 @@ function Hero() {
             }}
           >
             <ReactTyped
-              strings={['Welcome To Adaze Marketplace']}
+              strings={['Welcome To Adaze The MarketPlace']}
               typeSpeed={150}
               backSpeed={50}
               loop
