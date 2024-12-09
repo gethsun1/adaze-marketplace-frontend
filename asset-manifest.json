@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/adaze-marketplace-frontend/static/css/main.23bc3216.css",
+    "main.js": "/adaze-marketplace-frontend/static/js/main.85670c57.js",
+    "static/js/488.3a727501.chunk.js": "/adaze-marketplace-frontend/static/js/488.3a727501.chunk.js",
+    "static/media/background.webp": "/adaze-marketplace-frontend/static/media/background.358cefe81c69b67cda3b.webp",
+    "static/media/logo.png": "/adaze-marketplace-frontend/static/media/logo.3cc0be9f61c09e954a2b.png",
+    "index.html": "/adaze-marketplace-frontend/index.html",
+    "main.23bc3216.css.map": "/adaze-marketplace-frontend/static/css/main.23bc3216.css.map",
+    "main.85670c57.js.map": "/adaze-marketplace-frontend/static/js/main.85670c57.js.map",
+    "488.3a727501.chunk.js.map": "/adaze-marketplace-frontend/static/js/488.3a727501.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23bc3216.css",
+    "static/js/main.85670c57.js"
+  ]
+}
