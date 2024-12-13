@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "author": "Gethsun",
-  "homepage": "https://gethsun1.github.io/adaze-marketplace-frontend",
+  "homepage": "https://adazeconnect.com/",
   "dependencies": {
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.0.2",
